@@ -1,0 +1,5 @@
+python=3.6
+tensorflow=1.15.0
+h5py=2.10.0
+bert4keras=0.10.6
+Keras=2.3.1
